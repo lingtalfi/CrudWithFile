@@ -1,9 +1,9 @@
 <?php
 
 
-namespace CrudWithFile;
+namespace Ling\CrudWithFile;
 
-use CrudWithFile\Exception\CrudWithFileException;
+use Ling\CrudWithFile\Exception\CrudWithFileException;
 
 /**
  * Throws CrudWithFileException when something goes wrong

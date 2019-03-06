@@ -1,7 +1,7 @@
 <?php
 
 
-namespace CrudWithFile\Exception;
+namespace Ling\CrudWithFile\Exception;
 
 class CrudWithFileException extends \Exception
 {

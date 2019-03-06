@@ -1,12 +1,12 @@
 <?php
 
 
-namespace CrudWithFile;
+namespace Ling\CrudWithFile;
 
 
-use ArrayToString\ArrayToStringTool;
-use Bat\FileSystemTool;
-use CrudWithFile\Exception\CrudWithFileException;
+use Ling\ArrayToString\ArrayToStringTool;
+use Ling\Bat\FileSystemTool;
+use Ling\CrudWithFile\Exception\CrudWithFileException;
 
 class CrudWithFile implements CrudWithFileInterface
 {
